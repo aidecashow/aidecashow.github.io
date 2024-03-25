@@ -52,4 +52,29 @@ xAI 宣布开放发布 Grok-1，这是一个拥有 3140 亿参数的 Mixture-of-
 
 
 ---
+## 科研篇
+
+* 曼彻斯特大学和牛津大学数学家开发的 AI 框架可以快速识别和跟踪新的和相关的 COVID-19 变体，从而有可能实现更主动的响应和量身定制的疫苗开发。 [链接](https://medicalxpress.com/news/2024-03-mathematicians-ai-emerging-covid-variants.html)
+
+* 隆重推出 SaulLM-7B，这是一种专为法律领域量身定制的开创性大型语言模型，拥有 70 亿个参数，在理解和处理法律文档方面具有最先进的能力。 [链接](https://arxiv.org/abs/2403.03883v1)
+
+* 大型语言模型 (LLM) 包含冗余层，并且一种称为 ShortGPT 的新剪枝方法在模型剪枝方面显着优于以前的方法。 [链接](https://arxiv.org/abs/2403.03870v1)
+
+* 美国陆军研究实验室测试人工智能聊天机器人在战争游戏模拟中进行战斗规划，但专家警告不要在高风险情况下使用人工智能。 [链接](https://www.newscientist.com/article/2420184-us-army-tests-ai-chatbots-as-battle-planners-in-a-war-game-simulation/)
+
+* 攻击者可以从黑盒生产语言模型中提取精确信息，确认隐藏维度并以低成本恢复投影矩阵。 [链接](https://arxiv.org/abs/2403.06634v1)
+
+---
+## 重点关注
+
+* 顶级人工智能研究人员呼吁生成式人工智能公司允许独立访问其系统，认为严格的协议阻碍了安全测试和独立评估。 [链接](https://www.washingtonpost.com/technology/2024/03/05/ai-research-letter-openai-meta-midjourney/)
+
+* 今年的普利策新闻决赛入围者中有五人在提交的材料中使用了人工智能，引发了有关人工智能政策及其对调查报道的潜在影响的讨论。 [链接](https://www.niemanlab.org/2024/03/five-of-this-years-pulitzer-finalists-are-ai-powered/)
+
+* 欧盟议会批准了世界上第一套管理人工智能的主要监管基本规则，将技术分为风险类别，并计划于 2025 年实施。 [链接](https://www.cnbc.com/2024/03/13/european-lawmakers-endorse-worlds-first-major-act-to-regulate-ai.html)
+
+* 美国率先通过了联合国第一项关于人工智能的决议，强调需要安全、可靠和值得信赖的人工智能系统，以及所有国家，特别是发展中国家的平等机会。 [链接](https://abcnews.go.com/US/wireStory/us-spearheads-resolution-artificial-intelligence-aimed-ensuring-world-108058709)
+
+
+---
 > Copyright © 2024 AI DECA SHOW, All rights reserved.
