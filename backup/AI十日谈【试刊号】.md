@@ -14,7 +14,7 @@ Reddit 在 IPO 之前透露，通过将用户帖子授权给谷歌和其他人�
 
 ### Grok-1 的公开发布
 
-![xaigrok.jpeg](https://img2.imgtp.com/2024/03/25/Pj5Y2Mli.jpeg)
+![grok-1.webp](https://img2.imgtp.com/2024/03/25/nOzORaB9.webp)
 
 xAI 宣布开放发布 Grok-1，这是一个拥有 3140 亿参数的 Mixture-of-Experts 模型的大型语言模型。 该模型是从头开始训练的，没有针对任何特定应用（例如对话）进行微调。 基本模型权重和网络架构正在 Apache 2.0 许可证下发布。 Grok-1 使用基于 JAX 和 Rust 的自定义训练堆栈进行训练，其中 25% 的权重在给定令牌上处于活动状态。 使用该模型的说明可以在 xAI 的 GitHub 页面上找到。
 
